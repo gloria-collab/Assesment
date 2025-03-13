@@ -1,5 +1,5 @@
 ### Carried Out This instruction
-    
+    * 
 
 
 Create a folder called learn_git.
@@ -13,7 +13,7 @@ Create another file called fourth.txt.
 Add fourth.txt to the staging area.
 Commit with the message "adding fourth.txt"
 Remove the third.txt file.
-Add this change to the staging area. (Using the command "git add . "
+Add this change to the staging area. Using the command "git add . "
 Commit with the message "removing third.txt".
 Check out your commits using git log.
 Change your global settings to core.pager=cat - you can read more about that here.
