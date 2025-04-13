@@ -1,0 +1,24 @@
+Employee Table:
+    Num_e (primary key)
+    name
+    position
+    salary
+
+Projects:
+    Num_p (primary key)
+    Title
+    start_date
+    End_date
+    Department_num_s
+
+Department:
+    num_s (primary key)
+    Department
+    Manager_Name
+
+Employee_Projects:
+    Employee_Num_e (Foreign key)
+    Projects_num_s (Foreign key)
+
+
+
